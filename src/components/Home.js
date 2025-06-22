@@ -6,6 +6,7 @@ const Home = () => {
   <div className="container text-center mt-3 back">
 <div class = "row">
 <div className="col-6 abc">
+    // <p>hii</p>
 <h2>Hello everyone this is sai kumar ,Recently joined in BYTE QODE DIGITALS PVT.LTD</h2>
 <h3>Interested to develop new things .</h3>
 </div>
